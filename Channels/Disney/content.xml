@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <channel-icon path="/Channels/Disney/Channel-Icon/Placeholder/NoCopyrightForever_DISNEY_Placeholder.png"></channel-icon>
+  <content>
+    <torrent-mode>
+      <internet-archive>
+        <by-year>
+            <year1928>
+                <videos>
+                    <mickey-mouse-season-1 path="/Channels/Disney/Source/InternetArchive/Torrent/Mickey-Mouse_Season-1/mickey-mouse-season-1-1928-1929_202307_archive.torrent">
+                    <plane-crazy path="/Channels/Disney/Source/InternetArchive/Torrent/Plane-Crazy/plane-crazy_1928_archive.torrent">
+                    <Steamboat-Willie-censored path="/Channels/Disney/Source/InternetArchive/Torrent/Steamboat-Willie/SteamboatWillie_archive
+            .torrent">
+                    <Steamboat-Willie-uncensored path="/Channels/Disney/Source/InternetArchive/Torrent/Steamboat-Willie/youtube-addDhmQhBYg_archive.torrent">
+                    <The-Gallopin-Gaucho path="/Channels/Disney/Source/InternetArchive/Torrent/The-Gallopin-Gaucho/TheGallopinGaucho_archive.torrent">
+                </videos>
+                </year1928>
+                <year1929>
+                    <!-- Coming 2025 !-->
+                </year1929>
+        </by-year>
+      </internet-archive>
+    </torrent-mode>
+    <urll-mode>
+        <internet-archive>
+            <by-year>
+                <year1928>
+                    <all>
+                        <urll-source path="/Channels/Disney/Source/InternetArchive/URLL/PDNetPlusPlus_Channels_Disney_InternetArchive_Source_List.urll">
+                    </all>
+                </year1928>
+                <year1929>
+                    <!-- Coming 2025 !-->
+                </year1929>
+            </by-year>
+        </internet-archive>
+    </urll-mode>
+  </content>
+</xml>
+<!-- File version: 1 (2024, Saturday, April 13th at 4:45 pm PST) !-->
